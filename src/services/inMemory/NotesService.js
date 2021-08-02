@@ -72,3 +72,5 @@ class NotesService {
 }
 
 module.exports = NotesService;
+
+console.log('asdsad');
